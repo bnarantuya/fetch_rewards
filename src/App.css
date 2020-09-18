@@ -1,0 +1,25 @@
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+.listContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title {
+  text-align: center;
+  font-size: 45px;
+  font-weight: 100;
+  margin-bottom: 40px;
+}
+.title .orangeSpan {
+  color: #ff9900;
+  font-weight: 300;
+}

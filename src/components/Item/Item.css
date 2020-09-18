@@ -1,0 +1,9 @@
+.item {
+  padding: 8px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.item.evenItem {
+  background-color: #f8f8f0;
+}
